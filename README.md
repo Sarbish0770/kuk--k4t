@@ -1,2 +1,6 @@
 # kuk--k4t
-this is the print program
+requirement are:
+1.gtts
+2.datetime
+3.sox
+this is the python bashed programm.
